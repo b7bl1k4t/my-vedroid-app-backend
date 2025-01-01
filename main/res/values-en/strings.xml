@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CervixCheck</string>
+    <string name="upload_data">Upload Data</string>
+    <string name="result_n">Result_n</string>
+    <string name="pb_text_loading">Data loading…</string>
+    <string name="result_data">analysis_result</string>
+    <string name="result_ok_button">Close</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_header">Settings</string>
+    <string name="settings_theme_header">Theme</string>
+    <string name="settings_theme_switch">Dark theme</string>
+    <string name="send_diagnostic_data_header">Send diagnostic data</string>
+    <string name="send_diagnostic_data">Send data</string>
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_profile">Profile</string>
+    <string name="bottom_nav_settings">Settings</string>
+</resources>

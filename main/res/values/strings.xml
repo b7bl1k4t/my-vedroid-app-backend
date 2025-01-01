@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">CervixCheck</string>
+    <string name="pb_text_loading">Загрузка данных…</string>
+    <string name="result_data">результаты_анализа</string>
+    <string name="result_ok_button">Закрыть</string>
+    <string name="settings_language">Язык</string>
+    <string name="settings_header">Настройки</string>
+    <string name="settings_theme_header">Тема</string>
+    <string name="settings_theme_switch">Темная тема</string>
+    <string name="send_diagnostic_data_header">Отправка диагностических данных</string>
+    <string name="send_diagnostic_data">Отправлять данные</string>
+    <string name="upload_data">Загрузить данные</string>
+    <string name="result_n">Result_n</string>
+    <string name="bottom_nav_home">База</string>
+    <string name="bottom_nav_profile">Профиль</string>
+    <string name="bottom_nav_settings">Настройки</string>
+</resources>
