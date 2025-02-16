@@ -4,3 +4,10 @@
 
 Backend for android app using EEG real-time data.  
 Stack: Room/fragments/MPAndroidChart.
+
+MVVM
+
+#### Architecture:
+- Data
+- Domain
+- Presentation
